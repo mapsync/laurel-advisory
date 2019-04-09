@@ -40,7 +40,7 @@ var NotificationControl = class Control extends React.Component {
     var link = document.getElementById("link-field-" + (id - 1)).value;
     if (link.startsWith("https://laurelwater.geosync.cloud")) {
       var url = new URL(link);
-      link = "https://cocky-hawking-7cf1af.netlify.com" + url.pathname + url.search
+      link = "https://romantic-chandrasekhar-aa70bf.netlify.com" + url.pathname + url.search
     }
     fetch("/", {
       method: "POST",
