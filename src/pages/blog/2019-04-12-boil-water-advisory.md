@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Boil Water Advisory
+title: Test Notice for Advisory
 date: 2019-04-12T11:58:31.143Z
 description: A boil water advisory is in effect for the downtown area.
 ---
