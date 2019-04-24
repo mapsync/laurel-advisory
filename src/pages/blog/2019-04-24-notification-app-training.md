@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Notification App Training
 date: 2019-04-24T18:27:51.116Z
-description: Initial App Implementation
+description: Initial App
 ---
 We are learning how to manage the Notification System.
 
