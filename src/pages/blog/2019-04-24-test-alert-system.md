@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Test alert system
+title: Alert system
 date: 2019-04-24T19:08:10.327Z
 draft: false
-description: Boil water test
+description: Boil water alert
 ---
-Test of posting boil water
+Boil water post.
 
 ![](/img/android-chrome-192x192.png)
