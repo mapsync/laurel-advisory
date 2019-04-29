@@ -8,6 +8,7 @@ mailing_address: PO Box 2598
 mailing_city_state_zip: London, KY 40743
 phone: 606-878-2494
 fax: 606-878-2448
+after_hours_phone: 606-878-2448
 email: info.laurel@laurelwater.com
 hours: 8:00 am to 4:30 pm, Monday - Friday
 ---
