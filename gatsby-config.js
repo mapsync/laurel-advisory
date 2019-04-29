@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'LCWD Advisory',
+    title: 'LWD Advisory',
     description: 'Advisory site for Laurel County Water District #2',
   },
   plugins: [
