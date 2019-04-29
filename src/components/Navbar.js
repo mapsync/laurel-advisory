@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
         </div>
       </div>
       <div className="container grid-xs hide-xs">
-        <div className="client-name">Laurel County Water District #2</div>
+        <div className="client-name">Laurel Water District #2</div>
         <header className="navbar">
           <section className="navbar-section text-right">
             <Link className="btn btn-link" activeClassName="active" to="/">
