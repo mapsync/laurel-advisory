@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Delinquent Bills-Disconnect Notice
-date: 2019-11-18T16:58:39.983Z
+date: 2019-11-18T14:41:00.000Z
 draft: false
 description: All customers with delinquent bills.
 ---
