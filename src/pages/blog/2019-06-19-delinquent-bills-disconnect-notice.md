@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Delinquent Bills-Disconnect Notice
-date: 2019-12-18T14:41:00.000Z
+date: 2020-01-16T18:10:00.000Z
 draft: false
 description: All customers with delinquent bills.
 ---
-Delinquent bills must be paid by Monday, December 23.  All bills not paid by this date are subject to disconnect on Thursday, December 26.  Do not pay the bill online on Thursday, December 26 because we do not receive those payments for 24 to 48 hours.  You can come to the office or pay over the phone.  The total bill plus a reconnect fee of $50 must be paid before water can be turned back on once it is turned off for non-payment.   (The reconnect fee for after hours is $75)  If your bill has already been paid please disregard this notice.
+Delinquent bills must be paid by Wednesday, January 22.  All bills not paid by this date are subject to disconnect on Thursday, January 23.  Do not pay the bill online on Thursday, January 23 because we do not receive those payments for 24 to 48 hours.  You can come to the office or pay over the phone.  The total bill plus a reconnect fee of $50 must be paid before water can be turned back on once it is turned off for non-payment.   (The reconnect fee for after hours is $75)  If your bill has already been paid please disregard this notice.
